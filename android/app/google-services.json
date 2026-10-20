@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025548430943",
+    "project_id": "transporta-plus",
+    "storage_bucket": "transporta-plus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025548430943:android:f546c4761c7e3ddb2d35ea",
+        "android_client_info": {
+          "package_name": "com.example.transporta_plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALHQSu4wL79gMOV85uCdfVxPmG6GJ8ACo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

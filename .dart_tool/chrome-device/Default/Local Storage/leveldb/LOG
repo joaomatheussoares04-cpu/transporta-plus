@@ -1,0 +1,10 @@
+2026/10/13-14:29:09.223 2fd4 Reusing MANIFEST C:\Users\joaom\AppData\Local\Temp\flutter_tools.46287946\flutter_tools_chrome_device.9b26c855\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/13-14:29:09.225 2fd4 Recovering log #4
+2026/10/13-14:29:09.230 2fd4 Reusing old log C:\Users\joaom\AppData\Local\Temp\flutter_tools.46287946\flutter_tools_chrome_device.9b26c855\Default\Local Storage\leveldb/000004.log 
+2026/10/13-14:29:09.232 2fd4 Delete type=0 #3
+2026/10/13-15:21:07.555 1b64 Level-0 table #8: started
+2026/10/13-15:21:07.567 1b64 Level-0 table #8: 81554 bytes OK
+2026/10/13-15:21:07.571 1b64 Delete type=0 #4
+2026/10/13-15:21:49.606 1b64 Level-0 table #10: started
+2026/10/13-15:21:49.613 1b64 Level-0 table #10: 100239 bytes OK
+2026/10/13-15:21:49.616 1b64 Delete type=0 #7
